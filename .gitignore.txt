@@ -1,0 +1,16 @@
+# Ignore build files
+x64/
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.user
+*.VC.db
+*.suo
+*.ipch
+*.cache
+*.log
+
+# Ignore CUDA specific
+*.cubin
+*.ptx
